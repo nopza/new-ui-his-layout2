@@ -1,0 +1,31 @@
+
+* {
+  box-sizing: border-box;
+  font-family: 'Kanit', sans-serif;
+}
+/* Add a card effect for articles */
+.card {
+  background-color: white;
+  margin-top: 20px;
+}
+
+.cardlogin {
+  background-color: white;
+  margin-top: 200px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.cardbody{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.login {
+
+	min-height: 100vh;
+	display: auto;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+  }
+
